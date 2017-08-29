@@ -1,0 +1,21 @@
+{
+  "name": "repeat-skill",
+  "version": "1.0.0",
+  "description": "Repeat skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Dennis Ashby",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "alexa-app": "^2.3.2"
+  },
+  "devDependencies": {}
+}

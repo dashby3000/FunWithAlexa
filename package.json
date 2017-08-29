@@ -1,0 +1,27 @@
+{
+  "name": "FunWithAlexa",
+  "version": "1.0.0",
+  "description": "Sample Alexa Project Running on IBM BlueMix",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-app-server": "^2.2.4",
+    "appmetrics-dash": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashby3000/FunWithAlexa.git"
+  },
+  "keywords": [
+    "ibm",
+    "bluemix",
+    "alexa",
+    "test",
+    "server",
+    "echo"
+  ],
+  "author": "Dennis W. Ashby"
+}
